@@ -2,8 +2,7 @@
 title:               Bartosz Rybarski
 tagline:             'Personal blog'
 description:         ''
-url:                 https://www.bartekryba.github.io
-baseurl:             '/bartekryba.github.io'
+url:                 https://bartekryba.github.io
 paginate:            5
 permalink:           pretty
 
