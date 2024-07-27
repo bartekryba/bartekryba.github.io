@@ -1,29 +1,52 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi! I'm Bartosz. I'm a software engineer.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## 🏫 Education
 
-There are currently two themes built on Poole:
+### MSc Software Engineering and Internet Computing
+**Technische Universität Wien** <br>
+2024-now, Vienna
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### BSc Computer Science
+**University of Warsaw** <br>
+2019-2023, Warsaw
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## 🏢 Work experience
 
-## Setup
+### [Software Mansion](https://www.swmansion.com) - 3 years
+Software Mansion is a well-regarded, publicly listed software house based in Cracow, Poland. It's especially known for it's vast contribution and presence in the [React Native community](https://swmansion.com/react-native). <br>
+I worked there as a software engineer, working mostly with:
+- React Native (TypeScript/JavaScript)
+- Swift
+- Kotlin
+- Python
+- C++
 
-Some fun facts about the setup of this project include:
+And for the following clients:
+- [Amazon](https://www.amazon.com) I worked with Amazon's US engineering branch, sadly I cannot share details about my work there.
+- [Starkware](https://www.starkware.co) - Israeli blockchain scaling startup. I worked on building developer tools around Starknet blockchain. The ones I contributed to the most are:
+  - [starknet.swift](https://github.com/software-mansion/starknet.swift) Starknet SDK for Swift language
+  - [starknet-jvm](https://github.com/software-mansion/starknet-jvm) Starknet SDK for JVM languages, written in Kotlin
+  - [starknet-foundry](https://github.com/foundry-rs/starknet-foundry) Toolkit for developing and testing Starknet smart contracts, written in Rust.
+- [Mos.com](https://www.mos.com) - a SF-based neobank for students, that helps them finance their studies. We built the app, maintained it and made it to the third place in the [US AppStore charts](https://x.com/mosdotcom/status/1462595591544848390)!
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### [Visla.co](visla.co) - 1 year
+During my first software engineering job I worked as a React Native engineer, and developed a mobile application for a time management SaaS.
 
-Thanks for reading!
+## 🎤 Conferences and events
+
+### ETH Warsaw 2022 - Starknet 101 workshops
+With the help of my colleagues from Software Mansion I conducted workshops at the ETH Warsaw conference that introduced people to the Starknet ecosystem and Cairo programming language.
+
+### Blockchain 101 @ Software Mansion
+At our office, we organized a series of workshops for students, that introduced them to the basics of blockchain.
+
+## 🌎 Languages
+- Polish: native
+- English: C2 (IELTS 8.5/9 score)
+- German: B1
