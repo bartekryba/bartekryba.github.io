@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About me
+layout: default
+title: Home
 ---
 
 Hi! I'm Bartosz. I'm a software engineer.
@@ -8,7 +8,7 @@ Hi! I'm Bartosz. I'm a software engineer.
 ## 🏫 Education
 
 ### MSc Software Engineering and Internet Computing
-**Technische Universität Wien** <br>
+**Technical University of Vienna** <br>
 2024-now, Vienna
 
 ### BSc Computer Science
@@ -40,11 +40,20 @@ During my first software engineering job I worked as a React Native engineer, an
 
 ## 🎤 Conferences and events
 
-### ETH Warsaw 2022 - Starknet 101 workshops
+### Speaker @ ETH Warsaw 2022
 With the help of my colleagues from Software Mansion I conducted workshops at the ETH Warsaw conference that introduced people to the Starknet ecosystem and Cairo programming language.
 
-### Blockchain 101 @ Software Mansion
-At our office, we organized a series of workshops for students, that introduced them to the basics of blockchain.
+### Blockchain 101 Workshops @ Software Mansion
+At our office, we organized a series of workshops for students, that introduced them to the basics of blockchain. During the workshops, we explained the technical details behind Bitcoin, and guided students through writing their own cryptocurrency in Python.
+
+### Starknet Hackathon Amsterdam 2022
+Our team from Software Mansion took part in the hackathon, where we built a web-native wallet for Starknet.
+
+## ⭐️ Other achievements
+
+### Laureate title in the nationwide mathematical olympiad organized by the AGH university 
+*Ogólnopolska Olimpiada Matematyczna o Diamentowy Indeks AGH*, 2019
+
 
 ## 🌎 Languages
 - Polish: native
