@@ -18,7 +18,8 @@ Hi! I'm Bartosz. I'm a software engineer.
 ## 🏢 Work experience
 
 ### [Software Mansion](https://www.swmansion.com) - 3 years
-Software Mansion is a well-regarded, publicly listed software house based in Cracow, Poland. It's especially known for it's vast contribution and presence in the [React Native community](https://swmansion.com/react-native). <br>
+Software Mansion is a well-regarded, publicly listed software house based in Cracow, Poland, which is especially known for its vast contribution and presence in the [React Native community](https://swmansion.com/react-native). <br>
+
 I worked there as a software engineer, working mostly with:
 - React Native (TypeScript/JavaScript)
 - Swift
@@ -27,12 +28,12 @@ I worked there as a software engineer, working mostly with:
 - C++
 
 And for the following clients:
-- [Amazon](https://www.amazon.com) I worked with Amazon's US engineering branch, sadly I cannot share details about my work there.
-- [Starkware](https://www.starkware.co) - Israeli blockchain scaling startup. I worked on building developer tools around Starknet blockchain. The ones I contributed to the most are:
-  - [starknet.swift](https://github.com/software-mansion/starknet.swift) Starknet SDK for Swift language
-  - [starknet-jvm](https://github.com/software-mansion/starknet-jvm) Starknet SDK for JVM languages, written in Kotlin
-  - [starknet-foundry](https://github.com/foundry-rs/starknet-foundry) Toolkit for developing and testing Starknet smart contracts, written in Rust.
-- [Mos.com](https://www.mos.com) - a SF-based neobank for students, that helps them finance their studies. We built the app, maintained it and made it to the third place in the [US AppStore charts](https://x.com/mosdotcom/status/1462595591544848390)!
+- [Amazon](https://www.amazon.com): Collaborated with Amazon’s US engineering team (details are under NDA).
+- [Starkware](https://www.starkware.co): Israeli blockchain scaling startup. I worked on building developer tools around Starknet blockchain. The ones I contributed to the most are:
+  - [starknet.swift](https://github.com/software-mansion/starknet.swift): Starknet SDK for Swift language
+  - [starknet-jvm](https://github.com/software-mansion/starknet-jvm): Starknet SDK for JVM languages, written in Kotlin
+  - [starknet-foundry](https://github.com/foundry-rs/starknet-foundry): Toolkit for developing and testing Starknet smart contracts, written in Rust.
+- [Mos.com](https://www.mos.com): a SF-based neobank for students, that helps them finance their studies. We built the app, maintained it and made it to the third place in the [US AppStore charts](https://x.com/mosdotcom/status/1462595591544848390)!
 
 
 ### [Visla.co](visla.co) - 1 year

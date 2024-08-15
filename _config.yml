@@ -5,6 +5,7 @@ description:         ''
 url:                 https://bartekryba.github.io
 paginate:            5
 permalink:           pretty
+paginate_path:       "/blog/page:num/"
 
 # About/contact
 author:
